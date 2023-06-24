@@ -1,0 +1,4 @@
+host: "localhost"
+user: "root"
+pwd: "jordan23"
+db: "mrts"
